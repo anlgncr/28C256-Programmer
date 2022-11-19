@@ -29,5 +29,6 @@ Arduino uno pin connections;
     
     
     
-    ![28C256 Programmer Scheme](https://user-images.githubusercontent.com/13089698/202863028-150bcf0f-b6a3-4c47-b68b-1e1cf4938c75.png)
+    ![28C256 Programmer Scheme](https://user-images.githubusercontent.com/13089698/202863065-2f65f5e0-f28d-4e6e-915f-efc58d3708ba.png)
+
 
