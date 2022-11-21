@@ -28,7 +28,5 @@ Arduino uno pin connections;
     I have not used all PORTC pins so i can use Serial Commmunication (RX and TX pins)
     
    
-    ![28C256 Programmer Scheme]
-    (https://user-images.githubusercontent.com/13089698/202866999-31d14a53-d2e8-4339-959e-8ca36b41fe49.png)
 
 
