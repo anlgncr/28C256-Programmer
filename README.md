@@ -1,7 +1,7 @@
 # 28C256-Programmer
 28C256 Eeprom Programmer
 
-This programmer uses three 8bits registers (74HC574) and an arduino uno.
+This programmer uses two 8bits registers (74HC574), an arduino uno and optionally a button.
 
 Arduino uno pin connections;
 
